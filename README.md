@@ -1,2 +1,4 @@
 # hello-world
-Just another site
+Hi I am Elizabeth!
+I love dancing and cooking.
+
